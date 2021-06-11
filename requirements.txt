@@ -1,4 +1,5 @@
 #python==3.8
+numpy==1.14.5
 #fastchan
 #fastai
 #anaconda
